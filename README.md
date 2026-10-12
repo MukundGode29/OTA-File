@@ -13,3 +13,5 @@ vehicleEcuFirmwareUpdate {
     "verifyRoutineId": 0,
     "securityLevel": 1
   }
+
+  udsRequest {"requestCanId":1541,"responseCanId":1545,"timeoutMs":3000,"data":"22F195"}
